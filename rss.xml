@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[romanybueno.com]]></title>
+        <description><![CDATA[romanybueno.com]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 02 Jun 2016 11:37:55 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Eclesiastés, o el Predicador de Salomón]]></title>
+            <description><![CDATA[<article><h1>Eclesiastés, o el Predicador de Salomón</h1><p>La «Colección Breviarios» tiene por objeto la presentación, como pequeña agenda o bloc de notas, de textos esenciales de la literatura y el pensamiento de todos los tiempos. El «Eclesiastés», el «Tao Te King» de Lao Tse o los «Rubayyat» de Omar Jayyam, entre otros, son libros de formato autónomo por abarcar, en un texto de breve extensión, los límites de la reflexión, la creación, y el pensamiento humano. Cualquiera de ellos serviría como manual de auxilio espiritual en una isla desierta.  Los «Breviarios» incorporan, además, un bloque de páginas en blanco destinado a  ofrecer un espacio para anotaciones personales. La Colección pretende a su vez rescatar traducciones legendarias de los grandes textos clásicos que la comprenden.   La traducción del 'Eclesiastés', por Casiodoro de Reina, forma parte de la primera versión íntegra en lengua castellana de la Biblia (1569). Por su belleza literaria fecundó las letras españolas de su tiempo y de todo el Siglo de Oro. Del 'Libro del Eclesiastés', George Steiner ha escrito:</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a8a2571-10a9-4fc0-8fce-7c9d86124229.jpg"></article>]]></description>
+            <link>undefinedeclesiastes-o-el-predicador-de-salomon/index.html</link>
+            <guid isPermaLink="false">b56e035e-6a62-4c72-8b75-ceef7ac9d166</guid>
+            <pubDate>Thu, 02 Jun 2016 11:37:54 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
